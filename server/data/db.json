@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "attributes": {
+            "animal": "tiger",
+            "email": "customer1@example.com",
+            "tier": "S",
+            "type": "temporary"
+        },
+        "events": {
+            "played_song": 5
+        },
+        "last_updated": 1625181700
+    }
+]
